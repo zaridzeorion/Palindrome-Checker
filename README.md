@@ -2,7 +2,7 @@
 A simple website that is useful to check if any input is palindrome or not.
 The app doesn't have wide usage for solving significant problems, but it helped me sharpen my JavaScript algorithms writing skills. 
 
-...built with ReactJS and deployed on github-pages
+...web-page is built with ReactJS and deployed on github-pages
 
 ### How to run on your local machine :arrow_heading_down:
 
